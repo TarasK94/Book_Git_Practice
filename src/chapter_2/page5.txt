@@ -2,3 +2,5 @@ Today is a first day of Git
 
 
 fun fun fun
+
+editor:add more to this story
